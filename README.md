@@ -1,6 +1,6 @@
 Dear Sir, Madam,
 
-please find my below points on my redesign transforms the skip size selection experience from a basic, utilitarian page into a polished, user-centric interface that’s ready for today’s web standards and tomorrow’s users.
+Please find my below points on my redesign transforms the skip size selection experience from a basic, utilitarian page into a polished, user-centric interface that’s ready for today’s web standards and tomorrow’s users.
 
 Why My Skip Size Selector Redesign Is a Major Improvement
 
